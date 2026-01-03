@@ -1,0 +1,19 @@
+{
+  "name": "20260103_01",
+  "version": "0.1.0",
+  "description": "Autonomous development powered by Agentic OS",
+  "type": "module",
+  "scripts": {
+    "typecheck": "echo 'TypeScript check placeholder - will be implemented by agents'",
+    "test": "echo 'Tests placeholder - will be implemented by agents'",
+    "agents:parallel:exec": "echo 'Agent execution placeholder - will be implemented by agents'",
+    "state:transition": "echo 'State transition placeholder - will be implemented by agents'",
+    "deploy:staging": "echo 'Staging deploy placeholder - will be implemented by agents'",
+    "deploy:production": "echo 'Production deploy placeholder - will be implemented by agents'"
+  },
+  "keywords": ["miyabi", "autonomous", "ai-agents"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
